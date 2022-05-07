@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/OnlineCinema/static/css/main.7e8e3a15.css",
-    "main.js": "/OnlineCinema/static/js/main.44c37712.js",
+    "main.js": "/OnlineCinema/static/js/main.2e35e765.js",
     "index.html": "/OnlineCinema/index.html",
     "main.7e8e3a15.css.map": "/OnlineCinema/static/css/main.7e8e3a15.css.map",
-    "main.44c37712.js.map": "/OnlineCinema/static/js/main.44c37712.js.map"
+    "main.2e35e765.js.map": "/OnlineCinema/static/js/main.2e35e765.js.map"
   },
   "entrypoints": [
     "static/css/main.7e8e3a15.css",
-    "static/js/main.44c37712.js"
+    "static/js/main.2e35e765.js"
   ]
 }
